@@ -49,7 +49,6 @@ function mathOperation($arg1, $arg2, $operation){
         break;
     }
 }
-
 echo $res = mathOperation($num1, $num2, $operator);
 ?>
 
